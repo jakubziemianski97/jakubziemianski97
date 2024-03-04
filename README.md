@@ -39,8 +39,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript" />
 </div>
 
-<br/>
-<hr/>
+</br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
