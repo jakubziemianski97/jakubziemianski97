@@ -35,6 +35,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,sass,nodejs,gulp,json" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript,canva" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,sass,nodejs,gulp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jakubziemianski97/jakubziemianski97/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
