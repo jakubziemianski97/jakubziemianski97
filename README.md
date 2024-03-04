@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD"/>
 </h1>
 
-<h3 align="center">Very fast growing software developer from Poland 🇵🇱 and happy owner of a wonderful dog</h3>
+<h3 align="center">Very fast growing software developer from Poland 🇵🇱 and happy owner of a wonderful dog 🐶</h3>
 
 
 
