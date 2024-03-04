@@ -32,14 +32,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,sass,nodejs,gulp" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,javascript" />
-</div>
 
-</br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
