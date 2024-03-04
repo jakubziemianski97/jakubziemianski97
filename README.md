@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jakubziemianski97.jakubziemianski97" />
 
 <h1 align="center">
-    <img src=""https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD" alt="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD" />
+    <img src=""https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD"  />
 </h1>
 
 ### Hi there 👋
