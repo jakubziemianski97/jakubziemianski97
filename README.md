@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jakubziemianski97.jakubziemianski97" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jakubziemianski97.jakubziemianski97)
 
 ### Hi there 👋
 
