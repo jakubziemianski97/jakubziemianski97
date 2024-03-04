@@ -1,10 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jakubziemianski97.jakubziemianski97" />
 
-<h1 align="justify">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD"  />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=78F7DA&random=false&width=435&lines=Hi+there!;I'm+Jakub+Ziemia%C5%84ski+%F0%9F%91%8B%F0%9F%8F%BD"/>
 </h1>
-
-### Hi there 👋
 
 <!--
 **jakubziemianski97/jakubziemianski97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
