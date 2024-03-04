@@ -21,7 +21,7 @@
 </div>
 
 <div align="center"> 
-  <a style="margin-right: 10px;" href="mailto:jakubziemianski97@gmail.com">
+  <a style="margin-right: 50px;" href="mailto:jakubziemianski97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jakub-ziemia%C5%84ski-632098224/" target="_blank">
