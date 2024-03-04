@@ -6,6 +6,8 @@
 
 <h3 align="center">Very fast growing software developer from Poland 🇵🇱 and happy owner of a wonderful dog 🐶</h3>
 
+<img src="https://github.com/jakubziemianski97/jakubziemianski97/blob/main/Zefir.jpeg" alt="wonderful dog"/>
+
 
 
 <!--
