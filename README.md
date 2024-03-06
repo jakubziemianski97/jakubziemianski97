@@ -34,10 +34,10 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-<br>
+</br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jakubziemianski97/jakubziemianski97/output/github-contribution-grid-snake.svg" />
   
-<br/><br/><br/>
+</br></br></br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
