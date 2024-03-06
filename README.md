@@ -31,13 +31,13 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:jakubziemianski97@gmail.com">
+  <a width=100 href="mailto:jakubziemianski97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/jakub-ziemia%C5%84ski-632098224/" target="_blank">
+  <a width=100 href="https://www.linkedin.com/in/jakub-ziemia%C5%84ski-632098224/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/jakubziemianski97?tab=repositories" target="_blank">
+  <a width=100 href="https://github.com/jakubziemianski97?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
     </br></br></br>
