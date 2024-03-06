@@ -6,7 +6,7 @@
 
 <h3 align="center">Very fast growing software developer from Poland 🇵🇱 and happy owner of a wonderful dog 🐶</h3>
 
-<img src="https://github.com/jakubziemianski97/jakubziemianski97/blob/main/Zefir.jpeg" alt="wonderful dog"/>
+<img width=600 src="https://github.com/jakubziemianski97/jakubziemianski97/blob/main/Zefir.jpeg" alt="wonderful dog"/>
 
 <div align="center">
 
@@ -17,6 +17,8 @@
 😄 Pronouns: **quick learning, teamwork, independence**
 
 ⚡ Fun fact: **Daniel Radcliffe broke about 80 wands throughout filming because he kept using them as drumsticks**
+
+</br></br></br>
 
 </div>
 
@@ -35,7 +37,6 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-</br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jakubziemianski97/jakubziemianski97/output/github-contribution-grid-snake.svg" />
   
 </br></br></br>
