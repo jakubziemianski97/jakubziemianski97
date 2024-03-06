@@ -30,6 +30,7 @@
   <a href="https://github.com/jakubziemianski97?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+    </br></br></br>
 </div>
 
 <div align="center">
