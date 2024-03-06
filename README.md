@@ -44,10 +44,10 @@
 <br>
 
 <div align=center>
-    <img width=400 height=600 src="https://github-readme-streak-stats.herokuapp.com/?user=jakubziemianski97&theme=vue-dark&hide_border=true" alt="streak stats"/>
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=jakubziemianski97&theme=vue-dark&hide_border=true" alt="streak stats"/>
 </br>
-    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
 </br>
-    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
