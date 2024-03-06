@@ -34,10 +34,10 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jakubziemianski97/jakubziemianski97/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -45,7 +45,9 @@
 
 <div align=center>
     <img width=400 height=600 src="https://github-readme-streak-stats.herokuapp.com/?user=jakubziemianski97&theme=vue-dark&hide_border=true" alt="streak stats"/>
-  <img width=400 height=600 src="https://github-readme-stats.vercel.app/api?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
-  <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+</br>
+    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+</br>
+    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubziemianski97&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
