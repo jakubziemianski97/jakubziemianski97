@@ -20,7 +20,7 @@
 
 🔭 I’m currently working on **new JavaScript game**
 
-🌱 I’m currently learning **TypeScript and Angular**
+🌱 I’m currently learning **TypeScript and React**
 
 😄 Pronouns: **quick learning, teamwork, independence**
 
